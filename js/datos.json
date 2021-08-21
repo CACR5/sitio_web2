@@ -1,0 +1,26 @@
+[
+    {
+        "usuario": "admin",
+        "contrasena": "Admin",
+        "Nombre": "USUARIO",
+        "Apellido": "INVITADO",
+        "Cargo": "Invitado",
+        "Correo": "carlosacantillo@itsa.edu.co"
+    },
+    {
+        "usuario": "alexa",
+        "contrasena": "ale123",
+        "Nombre": "Alexandra",
+        "Apellido": "Andion",
+        "Cargo": "Administrador",
+        "Correo": "alexandrandion@itsa.edu.co"
+    },
+    {
+        "usuario": "sandra",
+        "contrasena": "sandra123",
+        "Nombre": "Sandra",
+        "Apellido": "Ramirez",
+        "Cargo": "Administrador",
+        "Correo": "sandraramirez@itsa.edu.co"
+    }
+]
